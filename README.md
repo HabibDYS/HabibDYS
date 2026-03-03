@@ -57,8 +57,8 @@ Feel free to reach out:
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [zaenalhabibi16@gmail.com](mailto:zaenalhabibi16@gmail.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [HABIBI](https://github.com/HabibDYS)
