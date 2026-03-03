@@ -38,7 +38,7 @@ I focus on **JavaScript**, **React**, and modern tools like **Vite** and **Next.
 
 ### 📊 A glance at my GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?HabibDYS=HabibDYS&show_icons=true&theme=radical&hide_border=true)
+![ my stats](https://github.com/HabibDYS/github-readme-stats))
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?HabibDYS=HabibDYS&layout=compact&theme=radical&hide_border=true)
 
 ---
